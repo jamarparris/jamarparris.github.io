@@ -14,4 +14,4 @@ The reason for this is simple: permanence.
 
 Even if you use a popular hosting, blogging or email service behind the scenes, having that content point to a domain you control ensures that you can ensure your content lives on beyond the life of any single service.
 
-For $10 a year, this is more than worth it.
+For the $10 a year it costs to own a domain, this is more than worth it.
