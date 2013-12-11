@@ -4,7 +4,7 @@ title: "own your identity"
 date: 2013-12-11 08:52:00 -0500
 comments: true
 categories:
-published: false
+published: true
 
 ---
 
@@ -12,6 +12,6 @@ I'd long been a believer in owning your online presence. Because of this I bough
 
 The reason for this is simple: permanence.
 
-Even if you use a popular hosting, blogging or email service behind the scenes, having that content point to a domain you control ensures that you can ensure your content lives on beyond the life of any single service.
+Even if you use a popular hosting, blogging or email service behind the scenes, having that content point to a domain you control ensures that your content lives on beyond the life of any single 3rd party service provider.
 
 For the $10 a year it costs to own a domain, this is more than worth it.
