@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://blog.jamarparris.com
+title: jamar.io
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Jamar Parris
 simple_search: http://google.com/search
 description:
 
