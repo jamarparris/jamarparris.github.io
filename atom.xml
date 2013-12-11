@@ -4,12 +4,27 @@
   <title><![CDATA[]]></title>
   <link href="http://blog.jamarparris.com/atom.xml" rel="self"/>
   <link href="http://blog.jamarparris.com/"/>
-  <updated>2013-12-11T10:03:25-05:00</updated>
+  <updated>2013-12-11T10:06:30-05:00</updated>
   <id>http://blog.jamarparris.com/</id>
   <author>
     <name><![CDATA[Jamar Parris]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[own your identity]]></title>
+    <link href="http://blog.jamarparris.com/blog/2013/12/11/own-your-identity/"/>
+    <updated>2013-12-11T08:52:00-05:00</updated>
+    <id>http://blog.jamarparris.com/blog/2013/12/11/own-your-identity</id>
+    <content type="html"><![CDATA[<p>I&rsquo;d long been a believer in owning your online presence. Because of this I bought my namesake domain back in 2007 (along with some domains for my younger siblings).</p>
+
+<p>The reason for this is simple: permanence.</p>
+
+<p>Even if you use a popular hosting, blogging or email service behind the scenes, having that content point to a domain you control ensures that your content lives on beyond the life of any single 3rd party service provider.</p>
+
+<p>For the $10 a year it costs to own a domain, this is more than worth it.</p>
+]]></content>
+  </entry>
   
 </feed>
