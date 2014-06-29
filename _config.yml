@@ -4,10 +4,10 @@
 
 url: http://blog.jamarparris.com
 title: jamar.io
-subtitle: 
+subtitle:
 author: Jamar Parris
 simple_search: http://google.com/search
-description:
+description: the blog of Jamar Parris
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /posts/:year/:month/:day/:title/
 source: source
 destination: public
 plugins: plugins
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: jamarparris
+twitter_user: JamarParris
 twitter_tweet_button: true
 
 # Google +1
@@ -91,10 +91,15 @@ delicious_count: 3
 
 # Disqus Comments
 disqus_short_name: jamarparris-blog
-disqus_show_comment_count: false
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-1295966-4
 
 # Facebook Like
 facebook_like: true
+facebook_author_url: https://www.facebook.com/jparris
+facebook_publisher_url: https://www.facebook.com/jparris
+
+# meta tag support
+meta_image_url: http://m.c.lnkd.licdn.com/mpr/mprx/0_6H28iaO4q4VnFT-NkWExiuDR9VgcLXGNkd40iugHd0WFV8zqEapuS2d64NjHQiiZFIaY2If4U6MI
