@@ -7,13 +7,13 @@
 
 <!-- twitter cards -->
 {% if site.twitter_user %}
-    <meta property="twitter:card" content="summary">
-    <meta property="twitter:site" content="@{{ site.twitter_user }}">
-    <meta property="twitter:creator" content="@{{ site.twitter_user }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@{{ site.twitter_user }}">
+    <meta name="twitter:creator" content="@{{ site.twitter_user }}">
     <meta name="twitter:image" content="{{ site.meta_image_url }}">
-    <meta property="twitter:url" content="{% if canonical %}{{ canonical }}{% else %}{{ site.url }}{% endif %}">
-    <meta property="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
-    <meta property="twitter:description" content="{{ description | strip_html | condense_spaces | truncate: 150 }}">
+    <meta name="twitter:url" content="{% if canonical %}{{ canonical }}{% else %}{{ site.url }}{% endif %}">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
+    <meta name="twitter:description" content="{{ description | strip_html | condense_spaces | truncate: 150 }}">
 {% endif %}
 
 {% capture ogtype %}{% if page.title %}article{% else %}website{% endif %}{% endcapture %}
