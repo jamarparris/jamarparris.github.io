@@ -32,8 +32,9 @@
 <meta property="article:publisher" content="{{ site.facebook_publisher_url }}">
 
 {% if page.keywords %}
-{% for kw in page.keywords %}
-<meta property="article:tag" content="{{ kw }}">
+{% assign ogtags = page.keywords | split:',' %}
+{% for tag in ogtags %}
+<meta property="article:tag" content="{{ tag }}">
 {% endfor %}
 {% endif %}
 

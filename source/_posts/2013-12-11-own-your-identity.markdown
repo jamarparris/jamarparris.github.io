@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "own your identity"
+author: "Jamar Parris"
 date: 2013-12-11 08:52:00 -0500
 comments: true
+excerpt: "Why it's worth $10 a year to get more control over your online identity."
 categories:
+keywords: "identity, domains"
 published: true
-
 ---
 
-I'd long been a believer in owning your online presence. Because of this I bought my namesake domain back in 2007 (along with some domains for my younger siblings). 
+I'd long been a believer in owning your online presence. Because of this I bought my namesake domain back in 2007 (along with some domains for my younger siblings).
 
 The reason for this is simple: permanence.
 
