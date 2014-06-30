@@ -2,7 +2,8 @@
 
 {% capture description %}{% if page.excerpt %}{{ page.excerpt }}{% elsif site.description %}{{ site.description }}{%else%}{{ content | raw_content }}{% endif %}{% endcapture %}
 
-<link rel="canonical" href="{{ canonical }}">
+<!-- meta tags for description and url -->
+<link rel="canonical" href="{{ canonical }}/">
 <meta name="description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
 
 <!-- twitter cards -->
@@ -15,6 +16,7 @@
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}">
     <meta name="twitter:description" content="{{ description | strip_html | condense_spaces | truncate: 150 }}">
 {% endif %}
+<!-- end twitter cards -->
 
 {% capture ogtype %}{% if page.title %}article{% else %}website{% endif %}{% endcapture %}
 
@@ -28,15 +30,16 @@
 <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}">
 
 {% if ogtype == 'article' %}
-<meta property="article:author" content="{{ site.facebook_author_url }}">
-<meta property="article:publisher" content="{{ site.facebook_publisher_url }}">
+	<meta property="article:author" content="{{ site.facebook_author_url }}">
+	<meta property="article:publisher" content="{{ site.facebook_publisher_url }}">
+	{% if page.keywords %}
+		{% assign ogtags = page.keywords | split: "," %}
+		<meta property="{{ ogtags }}">
+		{% for tag in ogtags %}
+			<meta property="article:tag" content="{{ tag }}">
+		{% endfor %}
+	{% endif %}
 
-{% if page.keywords %}
-{% assign ogtags = page.keywords | split:',' %}
-{% for tag in ogtags %}
-<meta property="article:tag" content="{{ tag }}">
-{% endfor %}
 {% endif %}
-
-{% endif %}
+<!-- end open graph -->
 
