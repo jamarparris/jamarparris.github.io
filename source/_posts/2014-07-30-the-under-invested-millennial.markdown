@@ -6,7 +6,7 @@ comments: true
 excerpt: "Why does there seem to be a lack of knowledge about investing among my peers?"
 categories:
 keywords: "investing"
-published: false
+published: true
 ---
 
 When you're in your 20s and 30s, saving doesn't sound like much fun and retirement especially can feel like this thing that's too far away to matter right now. I've noticed a certain level of ambivalnce among people in my age group towards personal finance. Some people either ignore it entirely (very bad) or they blindly set aside money without setting goals or doing the research and follow up necessary to ensure they stay on track (better, but not by much).
