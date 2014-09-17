@@ -9,9 +9,9 @@ keywords: "iphone, roaming, tmobile, lte, travel, jetsetter"
 excerpt: "Travel alot? I give my recommendation on the smartphone and carrier you should choose."
 ---
 
-Let me begin by saying that I love travel. This year alone I've been to London, Barcelona, Hong Kong, Macau and Japan internationally and San Francisco domestically. One of the biggest things that stresses me out everytime I travel is trying to figure out a seamless way to stay connected.
+Let me begin by saying that I love travel. This year alone I've been to London, Barcelona, Hong Kong, Macau and Japan internationally and San Francisco domestically. One of the biggest things that stresses me out everytime I travel is trying to figure out a seamless way to stay connected. Given this, I've done quite a bit of research and this blog post details what I've found.
 
-Anyways, I'll keep this post short. The best device for international travel is the new iPhone. It supports <a href='http://www.apple.com/iphone/LTE/' target='_blank'>16+ LTE bands</a> meaning near ubiquitous worldwide compatability. Samsung, by comparison tailors the LTE and 3G support in their phones to each carrier and geography, meaning far less global support.
+The best device for international travel is the <a href='http://www.apple.com/iphone-6/' target='_blank'>new iPhone</a>. It supports <a href='http://www.apple.com/iphone/LTE/' target='_blank'>16+ LTE bands</a> meaning near ubiquitous worldwide compatability. Samsung, by comparison tailors the LTE and 3G support in their phones to each carrier and geography, meaning far less global support.
 
 In terms of which carrier to choose, it gets more complex but here are 5 scenarios:
 
