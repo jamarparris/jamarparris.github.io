@@ -15,11 +15,11 @@ The best device for international travel is the <a href='http://www.apple.com/ip
 
 In terms of which carrier to choose, it gets more complex but here are 5 scenarios:
 
-1. **Can't be bothered with the hassle of getting a local SIM card in countries you vist?**
+1. **Can't be bothered with the hassle of getting a local SIM card in countries you visit?**
 Go with T-Mobile. They offer <a href='http://www.t-mobile.com/cell-phone-plans/simple-choice-international-plan-countries.html' target='_blank'>free data roaming</a> to their customers. It's only 2G speed but it's better than nothing.
 
 2. **Price sensitive and looking to sign a contract to keep costs down?**
-Go with Verizon. They're the only carrier whose on contract devices come unlocked out of the box meaning you can seek out a local SIM card and use it without fear.
+Go with Verizon. They're the only carrier whose on-contract devices come unlocked out of the box, meaning you can seek out a local SIM card and use it without fear.
 
 3. **Willing to pay full price for your iPhone ($649+)?**
 Ultimate flexability. Go with your carrier of choice. It'll come unlocked in all cases assuming you buy it directly from the Apple Store (note: probably not from the carriers though).
