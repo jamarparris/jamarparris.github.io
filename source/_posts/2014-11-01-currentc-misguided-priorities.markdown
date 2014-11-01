@@ -5,6 +5,7 @@ date: 2014-11-01 17:48:35 -0400
 comments: true
 categories:
 keywords: "mcx, currentc, amazon, applepay, googlewallet, google, alibaba, netflix, blockbuster"
+excerpt: "Retailers have better things to focus on long term than ApplePay."
 published: true
 ---
 
